@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_sort_date"
+        android:orderInCategory="9"
+        android:title="@string/sort_release"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_sort_a_to_z"
+        android:orderInCategory="10"
+        android:title="@string/a_to_z"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_sort_rating"
+        android:orderInCategory="11"
+        android:title="@string/rating"
+        app:showAsAction="never" />
+</menu>

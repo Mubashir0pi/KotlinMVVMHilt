@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#038bbf</color>
+    <color name="colorPrimary">#444549</color>
+    <color name="colorAccent">#00a2e0</color>
+
+    <!-- Color Sequence-->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#090909</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorSilverLight">#F3F3F3</color>
+    <color name="colorGray">#808080</color>
+    <color name="colorGrayLight">#CCC</color>
+    <color name="colorGrayLightMore">#88F9F9F9</color>
+    <color name="colorBlueLight">#07ebff</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorBlueLightII">#006DF0</color>
+    <color name="colorOrangeDark">#ffff8800</color>
+    <color name="white">#FFFFFF</color>
+    <color name="txtlightgray">#6b6b6b</color>
+    <color name="txtdarkgray">#4a4a4a</color>
+    <color name="bggray">#f9f9f9</color>
+    <color name="indicatorcolor">#b60663</color>
+    <color name="red">#d10404</color>
+    <color name="colorGreenSuccess">#64d57b</color>
+    <color name="colorLightGreen">#27bf6b</color>
+    <color name="colorCharcol">#5D5D5D</color>
+    <color name="colorLightGrey">#F9F9F9</color>
+    <color name="colorCharcolDarkMore">#515151</color>
+    <color name="colorBlackMore">#061324</color>
+    <color name="colorMagenta">#bb0557</color>
+    <color name="barColor">#E4E4E4</color>
+    <color name="colorGreenBorder">#96c386</color>
+    <color name="textBg">#fccb6f</color>
+</resources>

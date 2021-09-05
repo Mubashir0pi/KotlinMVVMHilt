@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="movies">Movies</string>
+    <string name="retry">Retry</string>
+    <string name="loading_error">Loading Error</string>
+    <string name="sort">Sort By Release Date</string>
+    <string name="list_of_reviews_error">Genres Load Error</string>
+    <string name="reviews">Genres</string>
+    <string name="genres">Genres</string>
+    <string name="overview">Overview</string>
+    <string name="list_of_genres_error">Genres Loading Error</string>
+    <string name="language">Language</string>
+    <string name="duration">Duration</string>
+    <string name="book_ow">BOOK NOW</string>
+    <string name="rating">Sort By Rating</string>
+    <string name="a_to_z">Sort By A TO Z</string>
+    <string name="sort_release">Sort By Release Date</string>
+</resources>
